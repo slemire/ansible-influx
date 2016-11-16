@@ -1,0 +1,17 @@
+---
+galaxy_info:
+  author: Simon Lemire
+  description: Module use by Ansible to write data into InfluxDB
+  issue_tracker_url: https://github.com/slemire/ansible-influx/issues
+  license: GPL
+  min_ansible_version: 2.0
+
+  platforms:
+  - name: GenericLinux
+    versions:
+    - any
+
+  categories:
+  - networking
+
+dependencies: []
